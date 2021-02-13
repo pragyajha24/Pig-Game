@@ -5,3 +5,12 @@ And then game will get switched to player2 and that player will roll the dice th
 But if we are rolling the dice and dice 1 comes then all the current score gets lost and turn comes of the next player. 
 
 And the first player to reach 100 points will win the game 🎉🎉.
+
+![Screenshot (197)](https://user-images.githubusercontent.com/78782644/107850914-0798c180-6e2c-11eb-8ac2-0627d359fbeb.png)
+
+## Technology Used
+- HTML
+- CSS
+- JAVASCRIPT
+
+I learned making this game from a online course  so I have not hosted it as the teacher already hosted it . You can click on the link mentioned above and play it.
