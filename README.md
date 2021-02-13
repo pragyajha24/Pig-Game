@@ -6,6 +6,8 @@ But if we are rolling the dice and dice 1 comes then all the current score gets 
 
 And the first player to reach 100 points will win the game 🎉🎉.
 
+[https://pig-game-v2.netlify.app/]
+
 ![Screenshot (198)](https://user-images.githubusercontent.com/78782644/107851034-c2c15a80-6e2c-11eb-9d24-a09edfa63d1e.png)
 
 ## Technology Used
